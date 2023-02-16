@@ -152,3 +152,4 @@ while add:
         add = False
     
 db.close()
+# program exit
